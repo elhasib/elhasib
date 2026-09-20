@@ -1,9 +1,3 @@
-building tools to decentralize and democratize computing hardware. interested in how simple mechanisms scale into complex systems.
-
-currently: Vanderbilt Electrical Engineering student
-
----
-
 ## tech stack
 
 **languages & frameworks**
