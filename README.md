@@ -16,7 +16,7 @@
 
 **tools & platforms**
 
-![Logisim](https://img.shields.io/badge/Logisim-8B0000?style=for-the-badge&logo=logisim&logoColor=white)
+![Logisim](https://img.shields.io/badge/Logisim-E8A317?style=for-the-badge&logo=logisim&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=qiskit)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![COMSOL](https://img.shields.io/badge/COMSOL-1E90FF?style=for-the-badge)
