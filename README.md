@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **computing paradigms**
 
@@ -15,9 +16,10 @@
 
 **tools & platforms**
 
-![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=qiskit)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![COMSOL](https://img.shields.io/badge/COMSOL-1E90FF?style=for-the-badge)
+![Qiskit]([https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge\&logo=qiskit))
+![NumPy]([https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white))
+![COMSOL]([https://img.shields.io/badge/COMSOL-1E90FF?style=for-the-badge](https://img.shields.io/badge/COMSOL-1E90FF?style=for-the-badge))
+![Logisim](https://img.shields.io/badge/Logisim-8B0000?style=for-the-badge&logo=logisim&logoColor=white)
 
 ## connect
 
